@@ -6,7 +6,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 const Todo = () => {
   return (
     <div>
-           <Card>
+    <Card>
       <CardHeader>
         <CardTitle>TODO1</CardTitle>
         <CardDescription>TODO Detail</CardDescription>
