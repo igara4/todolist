@@ -12,7 +12,7 @@ const Header = () => {
           <nav className="flex items-center space-x-6 text-sm">
             <Link
               className="bg-black py-3 px-4 text-white rounded-md font-medium"
-              href="/add-todo"
+              href="/todo/add-todo"
             >
               Add TODO
             </Link>
