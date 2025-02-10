@@ -21,7 +21,7 @@ const Todo = ({todoData}:TodoDataProps) => {
       </CardHeader>
       <CardContent>{detail}</CardContent>
       <CardFooter className="flex justify-end">
-        <Button variant="outline">削除</Button>
+        <Button>削除</Button>
         <Button>編集</Button>
       </CardFooter>
     </Card>
